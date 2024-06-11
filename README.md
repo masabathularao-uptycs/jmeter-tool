@@ -12,5 +12,5 @@
 4. Pass the report folder name for the current test (which will be saved to `reports` folder after the load) as input to the save-report-to-mongo tool during report generation to add API load report to the Performance Load Report. 
 (The Report folder name can also be found printed in the terminal after executing ```./start_api_load.sh```)
 
-NOTE 1 : Install java and python to run the tool if not already installed.
-NOTE 2 : Run ```cd reports``` and ```python3 -m http.server 8001``` in machines with no display. (ignore of already done)
+NOTE 1 : Install java and python to run the tool if not already installed. <br>
+NOTE 2 : Run ```cd reports``` and ```nohup python3 -m http.server 8001 > /dev/null 2>&1 &``` in machines with no display. (ignore of already done)
