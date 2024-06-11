@@ -14,7 +14,7 @@ properties_path="scripts/domain/${domain}.properties"
 if [ -f "$properties_path" ]; then
     echo "File '$properties_path' exists."
 else
-    echo "File '$properties_path' does not exist."
+    echo "ERROR : File '$properties_path' does not exist."
     exit 1
 fi
 
