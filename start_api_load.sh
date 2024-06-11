@@ -1,7 +1,7 @@
 #!/bin/bash
 
 git checkout main
-# git stash
+git stash
 git pull origin main
 curr_time="$(date +'%Y-%m-%d_%H-%M-%S')" 
 

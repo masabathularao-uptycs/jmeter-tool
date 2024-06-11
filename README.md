@@ -9,5 +9,7 @@
 2. ```cd jmeter-tool``` and run ```./start_api_load.sh```
 3. enter your domain name and load duration to start API load to start the load
 
+4. Pass the report folder name in `reports` folder as input to the save-report-to-mongo tool during report generation to add API load report to the Performance Load Report. 
+(The Report folder name can also be found printed in the terminal after executing ```./start_api_load.sh```)
 
 NOTE : Install java and python to run the tool if not already installed.
