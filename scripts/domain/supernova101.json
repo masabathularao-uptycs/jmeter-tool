@@ -1,0 +1,14 @@
+{
+  "id": "2b27810b-fec7-4e39-ae29-405da266e67e",
+  "userId": "a78ce7eb-518f-4be4-bbef-bb934f608066",
+  "customerId": "ef934281-bea6-4724-a1a3-8bc7e220e886",
+  "active": true,
+  "isInternal": false,
+  "key": "D2QFC7LRBJR5SDHXQENGQSQBO3F5HGOY",
+  "secret": "mf0UEsOoeAYDCstyIViQcMxlPHMv/SV3GxlgzvF5ixRXUf1z2e9oUgbo8c0XhyEU",
+  "expiry": null,
+  "updatedAt": "2023-11-30T09:19:05.676Z",
+  "createdAt": "2023-11-30T09:19:05.676Z",
+  "domainSuffix": ".uptycs.net",
+  "domain": "supernova101"
+}

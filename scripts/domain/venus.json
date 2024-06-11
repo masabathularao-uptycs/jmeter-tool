@@ -1,0 +1,14 @@
+{
+  "id": "61e052c1-a71d-4f74-8a65-217ce6b2afdd",
+  "userId": "fae2f3ac-8473-4fa0-b3bb-6370b1476cac",
+  "customerId": "28a06b1a-a076-400d-930c-d17b714efd3b",
+  "active": true,
+  "isInternal": false,
+  "key": "3XQKOV6WWFMKPJKZRY2R3IR2YIVMTKYL",
+  "secret": "j2iT2c0JwhnKqbETikMIfXkpm8AULIjzf8iWWuIywfeDPMMyXz/d22tvV7SvGkgg",
+  "expiry": null,
+  "updatedAt": "2024-05-28T06:05:21.630Z",
+  "createdAt": "2024-05-28T06:05:21.630Z",
+  "domainSuffix": ".uptycs.net",
+  "domain": "venus"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "dcaa7b78-4363-4e98-b474-640374d8e4d3",
+    "userId": "1af4f235-9d69-48cc-a0a0-3f94a7dbcf55",
+    "customerId": "9e85e407-1733-4733-a255-7fed113d95e6",
+    "active": true,
+    "isInternal": false,
+    "key": "MV3ORMRCTC7RVJYGMT6HB342PNOANVKZ",
+    "secret": "swhmMtCsya1exbl4UJ1awpOBliE+0mmEIx9tnG0XzEzZwhGPuHWxMdcznUKNCEHw",
+    "expiry": null,
+    "updatedAt": "2024-01-08T07:28:23.094Z",
+    "createdAt": "2024-01-08T07:28:23.094Z",
+    "domainSuffix": ".uptycs.net",
+    "domain": "jupiter"
+  }

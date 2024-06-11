@@ -1,0 +1,1556 @@
+Quantity of variables: 16.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  0
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  1
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  2
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  3
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  4
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  5
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  6
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  7
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  8
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  9
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  10
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  11
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  12
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  13
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  14
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  15
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  16
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  17
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  18
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  19
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  20
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  21
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  22
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  23
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  24
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  25
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  26
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  27
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  28
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  29
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  30
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  31
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  32
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  33
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  34
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  35
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  36
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  37
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  38
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  39
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  40
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  41
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  42
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  43
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  44
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  45
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  46
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  47
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  48
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  49
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  50
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  51
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  52
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  53
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  54
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  55
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  56
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  57
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  58
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  59
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  60
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  61
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  62
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  63
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false
+Quantity of variables: 20.
+
+[VARIABLE NAME]      ==>>      [VARIABLE VALUE]
+
+JMeterThread.last_sample_ok  ==>>  false
+  ==>>  true
+graphjob_val_matchNr  ==>>  1
+server_name  ==>>  venus.uptycs.net
+__jm__While Controller 1__idx  ==>>  64
+query_delay  ==>>  0
+START.HMS  ==>>  181319
+START.YMD  ==>>  20240528
+START.MS  ==>>  1716900199697
+TESTSTART.MS  ==>>  1716970777356
+duration  ==>>  36000
+graphjob_val  ==>>  
+__jmeter.U_T__  ==>>  det_thread5 1-1
+id  ==>>  4c3d71f4-f15e-4a36-a98b-6ba52b06d1a1
+JMeterThread.pack  ==>>  org.apache.jmeter.threads.SamplePackage@2eb5632b
+Status1  ==>>  
+Status1_matchNr  ==>>  0
+customer_id  ==>>  28a06b1a-a076-400d-930c-d17b714efd3b
+__jm__det_thread5__idx  ==>>  0
+__jmv_SAME_USER  ==>>  false

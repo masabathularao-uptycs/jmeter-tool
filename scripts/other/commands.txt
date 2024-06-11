@@ -1,0 +1,5 @@
+HEAP="-Xms2g -Xmx4g" ./bin/jmeter.sh -t scripts/ApiLoad.jmx -q scripts/domain/jupiter.properties -Jload_duration=50
+
+HEAP="-Xms2g -Xmx4g" ./bin/jmeter.sh -t scripts/old-ApiLoad.jmx -q scripts/domain/jupiter.properties -Jload_duration=50 
+
+curr_time="$(date +'%Y-%m-%d_%H-%M-%S')" && HEAP="-Xms2g -Xmx4g" ./bin/jmeter.sh -t scripts/ApiLoad.jmx -q scripts/domain/jupiter.properties -Jload_duration=50 -n -l reports/jtl/"result_${curr_time}.jtl" -e -o reports/"output_${curr_time}"

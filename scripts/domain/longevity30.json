@@ -1,0 +1,14 @@
+{
+  "id": "658da4a1-10ec-4109-8667-8d0586a8ee3b",
+  "userId": "b6aa7786-9c7f-4ad1-b0b6-27f5c449a837",
+  "customerId": "2f5a1ef9-deae-4769-8569-d17362604778",
+  "active": true,
+  "isInternal": false,
+  "key": "LKQGIF7O2BHYAIOLP4MEBOPIYZJPBGUO",
+  "secret": "hs1cqrFVMqK1khtW6mWqQkvA1b2tCrjzet3XMhk+L+tVYtx0uUVcQDlFQyVTStWM",
+  "expiry": null,
+  "updatedAt": "2024-02-20T15:41:12.127Z",
+  "createdAt": "2024-02-20T15:41:12.127Z",
+  "domainSuffix": ".uptycs.net",
+  "domain": "longevity30"
+}
