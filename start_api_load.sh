@@ -12,10 +12,9 @@ read domain
 echo "enter duration of the load (in sec) : "
 read DURATION
 
-file_name=${domain}+"_"${DURATION}+"_"+${curr_time}
+file_name=${domain}_${DURATION}_${curr_time}
 
 echo "Base report file name is : "
 echo ${file_name}
 
-HEAP="-Xms2g -Xmx4g" 
-./bin/jmeter.sh -t scripts/ApiLoad.jmx -q scripts/domain/${domain}.properties -Jload_duration=${DURATION} -n -l reports/jtl/"${file_name}.jtl" -e -o reports/"${file_name}_report"
+HEAP="-Xms2g -Xmx4g" ./bin/jmeter.sh -t scripts/ApiLoad.jmx -q scripts/domain/${domain}.properties -Jload_duration=${DURATION} -n -l reports/jtl/"${file_name}.jtl" -e -o reports/"${file_name}_report"
