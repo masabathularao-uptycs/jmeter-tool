@@ -4,7 +4,7 @@
 3. Run ```python3 /scripts/generate_header.py``` and enter your domain name to generate `<domain>.properties` file.
 4. git commit and push the changes
 
-## Start API load
+## Start API Performance load
 1. Clone this repo to the machine from where you want to run the API load. (Ignore if already cloned)
 2. ```cd jmeter-tool``` and run ```./start_api_load.sh```
 3. enter your domain name and load duration to start API load to start the load
