@@ -32,7 +32,7 @@ echo "enter duration of the load (in sec) : "
 read DURATION
 
 curr_time="$(date +'%Y-%m-%d_%H-%M-%S')" 
-folder_name=${domain}_${jmx_file}_${DURATION}_${curr_time}
+folder_name=${domain}_${DURATION}sec_${jmx_file}_${curr_time}
 HEAP="-Xms2g -Xmx4g"
 
 echo "Report folder name is : "
