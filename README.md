@@ -7,9 +7,11 @@
 ## Start API Performance load
 1. Clone this repo to the machine from where you want to run the API load. (Ignore if already cloned)
 2. ```cd jmeter-tool``` and run ```./start_api_load.sh```
-3. enter your domain name and load duration to start API load to start the load
+3. enter your domain name and load duration to start the performance API load
 
-4. Pass the report folder name for the current test (which will be saved to `reports` folder after the load) as input to the save-report-to-mongo tool during report generation to add API load report to the Performance Load Report. 
+## (Link this api load report to ruleengine load report)
+1. Pass the report folder name for the current test (which will be saved to `reports` folder after the load) as input to the save-report-to-mongo tool during report generation
+2. This will add the link to API load report to the ruleengine Load Report. 
 (The Report folder name can also be found printed in the terminal after executing ```./start_api_load.sh```)
 
 NOTE 1 : Install java and python to run the tool if not already installed. <br>
