@@ -18,7 +18,7 @@
 1. This repo contains various kinds of apis including assets api, detection graphjob api, investigate queries api, vulnerabilities and compliance apis.. etc.
 2. For your test, you can make a copy of the main jmx file, comment the unnecessary apis that you dont need for your test and also tune the parameters if needed.
 
-## Command to open Jmeter in non-CLI mode
+## Command to open Jmeter in GUI mode
 ```
 HEAP="-Xms2g -Xmx4g" ./bin/jmeter.sh -t scripts/GLOBAL_QUERY.jmx -q scripts/domain/<domain>.properties -Jload_duration=<duration_in_sec> 
 ```
