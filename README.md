@@ -23,6 +23,8 @@
 HEAP="-Xms2g -Xmx4g" ./bin/jmeter.sh -t scripts/GLOBAL_QUERY.jmx -q scripts/domain/<domain>.properties -Jload_duration=<duration_in_sec> 
 ```
 
-NOTE 1 : Install java and python3 to run the tool if not already installed. <br>
+NOTE 1 : Install java and python3 to run the tool if not already installed. 
+<br>
 NOTE 2 : ```cd reports``` and run ```nohup python3 -m http.server 8001 > /dev/null 2>&1 &``` to view the Jmeter reports. (ignore of already done)
+<br>
 NOTE 3 : You can view the logs of the current test in jmeter.log file.
