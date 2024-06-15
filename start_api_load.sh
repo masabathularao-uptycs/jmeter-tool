@@ -4,7 +4,12 @@ git checkout main
 git stash
 git pull origin main
 
-jmx_file="GLOBAL_QUERY"
+# jmx_file="GLOBAL_QUERY"
+
+echo "Enter jmx_file (optional) (Press ENTER to set to default): "
+read jmx_file
+jmx_file=${jmx_file:-"GLOBAL_QUERY"}
+
 
 echo "Enter domain name : "
 read domain
@@ -27,6 +32,14 @@ else
     echo "ERROR : File '$jmx_path' does not exist."
     exit 1
 fi
+
+if [ "$jmx_file" = "DetectionGraphsLoad" ] && [ "$domain" = "venus" ]; then
+    echo "Planning to start detection graphs load on venus stack ..."
+    python3 scripts/save_detection_ids_to_csv.py s3configdb1
+else
+    echo "Not a detection graphs load"
+fi
+
 
 echo "enter duration of the load (in sec) : "
 read DURATION
