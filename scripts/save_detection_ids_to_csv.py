@@ -9,8 +9,8 @@ end_time_utc="2024-06-09 20:46"
 LIMIT = 100
 # remote_node="s3configdb1"
 
-if len(sys.argv) != 2:
-    print("Usage: python3 save_detection_ids_to_csv.py.py <remote_node>")
+if len(sys.argv) != 3:
+    print("Usage: python3 save_detection_ids_to_csv.py <remote_node> <path_to_save_det_csvs>")
     sys.exit(1)
 
 remote_node = sys.argv[1]
