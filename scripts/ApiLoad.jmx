@@ -37,8 +37,8 @@
             <stringProp name="Argument.value">30</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
-          <elementProp name="det_graphs_interval" elementType="Argument">
-            <stringProp name="Argument.name">det_graphs_interval</stringProp>
+          <elementProp name="each_detection_id_interval" elementType="Argument">
+            <stringProp name="Argument.name">each_detection_id_interval</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
             <stringProp name="Argument.value">0</stringProp>
           </elementProp>
@@ -1446,14 +1446,14 @@ fw.close()
                 <hashTree/>
               </hashTree>
             </hashTree>
+            <TestAction guiclass="TestActionGui" testclass="TestAction" testname="each id interval Flow Control Action" enabled="true">
+              <intProp name="ActionProcessor.action">1</intProp>
+              <intProp name="ActionProcessor.target">0</intProp>
+              <stringProp name="ActionProcessor.duration">${each_detection_id_interval}</stringProp>
+            </TestAction>
+            <hashTree/>
           </hashTree>
         </hashTree>
-        <TestAction guiclass="TestActionGui" testclass="TestAction" testname="detection thread Flow Control Action" enabled="true">
-          <intProp name="ActionProcessor.action">1</intProp>
-          <intProp name="ActionProcessor.target">0</intProp>
-          <stringProp name="ActionProcessor.duration">${det_graphs_interval}</stringProp>
-        </TestAction>
-        <hashTree/>
       </hashTree>
       <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="false">
         <boolProp name="ResultCollector.error_logging">false</boolProp>
