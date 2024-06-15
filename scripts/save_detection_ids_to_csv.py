@@ -6,7 +6,7 @@ import sys
 
 start_time_utc="2024-06-07 05:36"
 end_time_utc="2024-06-09 20:46"
-LIMIT = 4000
+LIMIT = 10000
 NO_OF_DET_CSVS = 20
 # remote_node="s3configdb1"
 
