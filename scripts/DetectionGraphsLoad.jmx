@@ -24,7 +24,7 @@
           </elementProp>
           <elementProp name="interval" elementType="Argument">
             <stringProp name="Argument.name">interval</stringProp>
-            <stringProp name="Argument.value">3000</stringProp>
+            <stringProp name="Argument.value">0</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
         </collectionProp>
