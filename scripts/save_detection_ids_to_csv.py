@@ -13,8 +13,16 @@ if len(sys.argv) != 3:
     print("Usage: python3 save_detection_ids_to_csv.py <remote_node> <path_to_save_det_csvs>")
     sys.exit(1)
 
-remote_node = sys.argv[1]
-print(f"Received remote_node input: {remote_node}")
+domain = sys.argv[1]
+print(f"Received domain input: {domain}")
+
+if domain =="venus":
+    print("Found configdb node and customer_id")
+    remote_node = "s3configdb1"
+    customer_id = "28a06b1a-a076-400d-930c-d17b714efd3b"
+else:
+    print(f"Couldnt find configdb node and customer id for domain {domain}")
+    sys.exit(1)
 
 base_path = sys.argv[2]
 print(f"Received base_path input: {base_path}")
@@ -28,6 +36,7 @@ FROM incidents
 WHERE created_at >= '{start_time_utc}' 
   AND created_at <= '{end_time_utc}' 
   AND graph_id is null 
+  and customer_id = '{customer_id}' 
   AND (
         (jsonb_typeof(metadata_list) = 'object' AND metadata_list ? 'pid')
         OR
