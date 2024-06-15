@@ -6,7 +6,7 @@ import sys
 
 start_time_utc="2024-06-07 05:36"
 end_time_utc="2024-06-09 20:46"
-LIMIT = 100
+LIMIT = 4000
 # remote_node="s3configdb1"
 
 if len(sys.argv) != 3:
