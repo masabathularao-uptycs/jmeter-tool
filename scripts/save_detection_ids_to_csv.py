@@ -7,6 +7,7 @@ import sys
 start_time_utc="2024-06-07 05:36"
 end_time_utc="2024-06-09 20:46"
 LIMIT = 4000
+NO_OF_DET_CSVS = 20
 # remote_node="s3configdb1"
 
 if len(sys.argv) != 3:
@@ -90,7 +91,7 @@ df["id"]=df["id"].apply(lambda x : str(x.strip()))
 df=df.iloc[2:-1]
 # df.to_csv(f"{base_path}/detections.csv",index=False)
 
-split_dfs = np.array_split(df, 10)
+split_dfs = np.array_split(df, NO_OF_DET_CSVS)
 for i, split_df in enumerate(split_dfs):
     print(f"DataFrame {i+1}")
     # print(split_df)
