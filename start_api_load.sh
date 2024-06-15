@@ -35,7 +35,7 @@ fi
 
 if [ "$jmx_file" = "DetectionGraphsLoad" ] && [ "$domain" = "venus" ]; then
     echo "Planning to start detection graphs load on venus stack ..."
-    python3 scripts/save_detection_ids_to_csv.py s3configdb1
+    python3 scripts/save_detection_ids_to_csv.py s3configdb1 scripts/csv_inputs
 else
     echo "Not a detection graphs load"
 fi

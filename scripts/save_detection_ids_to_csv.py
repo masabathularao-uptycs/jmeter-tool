@@ -14,9 +14,12 @@ if len(sys.argv) != 2:
     sys.exit(1)
 
 remote_node = sys.argv[1]
-print(f"Received input: {remote_node}")
+print(f"Received remote_node input: {remote_node}")
 
-base_path = "csv_inputs"
+base_path = sys.argv[2]
+print(f"Received base_path input: {base_path}")
+
+# base_path = "scripts/csv_inputs"
 # query=f"SELECT DISTINCT incidents.id FROM incidents,LATERAL jsonb_array_elements(metadata_list) AS elem where created_at >= '{start_time_utc}' and created_at <= '{end_time_utc}' AND elem ? 'pid' and graph_id is null limit {LIMIT};"
 
 query = f"""
