@@ -1,0 +1,14 @@
+{
+    "id": "0235efcf-21a9-4ed4-ae58-9120bf357df8",
+    "userId": "745d8054-d87f-413c-9b39-a795e4211fa0",
+    "customerId": "1303b7d1-24b1-46cd-b924-29abd7168584",
+    "active": true,
+    "isInternal": false,
+    "key": "Q6NZCXPIPONT3KYPKYYVB4UUOBJPXETZ",
+    "secret": "UCtcLT8tcVBA6HwO/oTYcCOtHOSMuEB0Dsjq/JwG6tHDtvfiatUT3msUH8nYBpUG",
+    "expiry": null,
+    "updatedAt": "2024-06-14T06:30:28.194Z",
+    "createdAt": "2024-06-14T06:30:28.194Z",
+    "domainSuffix": ".uptycs.net",
+    "domain": "neptune"
+}
