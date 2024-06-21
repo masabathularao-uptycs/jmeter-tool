@@ -10,8 +10,9 @@
 3. enter your domain name and load duration to start the performance API load
 
 ## Link this api load report to main Performance load report
-1. Pass the name of the report folder for the current test (which will be saved to `reports` folder after the load) as input to the save-report-to-mongo tool during report generation
-2. This will add the link to API load report in the Main Performance Load Report. 
+1. make sure you have this variable in yout stack.json file. `apiload_simulator_ip`
+2. Pass the name of the report folder for the current test (which will be saved to `reports` folder after the load) as input to the save-report-to-mongo tool during report generation
+3. This will add the link to API load report in the Main Performance Load Report. 
 (The Report folder name can also be found printed in the terminal after executing ```./start_api_load.sh```)
 
 ## Help for Feature Testings
