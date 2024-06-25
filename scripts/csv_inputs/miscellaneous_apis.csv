@@ -1,0 +1,11 @@
+nameÆapiÆpost_data
+askOsqueryÆaskOsqueryÆ{"name":"ASK_OSQUERY_CLOUD_ASSETS_BY_PROVIDER_COUNT","objectGroupIds":["c8884181-1743-4632-9c85-406c01146290","81d8a209-0d88-482b-8791-e5cff1104717","ff1bd35c-7f72-4b86-8154-31c9640f32b3","f62e9616-f4ee-4327-9bb9-f28d87d33bd6","79a1b5fc-b115-41c7-bc9f-9dd51383193c","c5e4e113-16ae-419e-af69-dd137aaab98f","b914e25c-271f-4f27-aa94-3c6c93972d9f","b8a3d7ca-8754-450f-a851-3d2e15cee5d1","e1851c05-7c91-4396-ae09-84a0c68c9c92","dfc68e0b-42ab-4d22-8be0-d3dbb9928aff"]}
+fleetHealthÆoverview/fleetHealthÆ{"name":"HEALTH_PER_CHECK_COUNT","platform":"uptycs_uds_linux","assetGroupIds":[],"assetTags":[]}
+appCertsÆappCertsÆ{"name":"APPLICATION_CERTIFICATES_EXPIRE_INTERVAL_ALL","intervalDay":"30","startDay":0,"endDay":8,"assetGroupIds":[],"assetTags":[]}
+secretScansÆsecretScans/resultsÆ{"name":"HOST_WITH_SECRET_SCAN_SCANNED_LAST_N_HR_COUNT","osFlavor":["centos","debian","windows","darwin"]}
+blockingOverviewÆblockingOverviewÆ{"name":"BLOCKING_HOSTS_TOTAL_ALL"}
+apiKeyAuditLogsÆapiKeyAuditLogsÆ{"name":"API_HISTORY_LOG"}
+kubeComplianceÆcomplianceOverview/kubeComplianceÆ{"clusterId":"","name":"KUBE_SUNBURST"}
+cachedQueryJobsÆcachedQueryJobsÆ{"name":"security-posture-bar-chart-546010ba85e8d831dfc95043e4013a83","query":"select date(upt_time) as date,\ncount(*) as value\nfrom process_blocking_events \nwhere     upt_day >= cast( date_format(now()-interval '7' day, '%Y%m%d') as integer) and decision = 'BLOCK'\ngroup by 1 order by 1","type":"global","source":"DASHBOARDS","cacheKey":"security-posture-bar-chart-546010ba85e8d831dfc95043e4013a83","cache":true}
+aws-dashboardQueryÆqueryresults/cloud/aws/dashboards/dashboardQueryÆ{"tenantIds":["all"],"sinceDays":7,"apiName":"iamIdentityPostureScoresOverLastNDays"}
+aws-discovery-detailsÆcloud/aws/discovery/detailsÆ{"name":"COMPLIANCES"}

@@ -1,10 +1,10 @@
-nameÆassetTag
-COMPLIANCE_SUNBURSTÆassetTag
-COMPLIANCE_TABLEÆassetTag
-COMPLIANCE_TABLE_BY_SECTIONSÆassetTag
-COMPLIANCE_TRENDÆassetTag
-COMPLIANCE_STANDARDSÆtag
-COMPLIANCE_FAILED_RULES_BY_STANDARDSÆtag
-COMPLIANCE_TOP_FAILED_RULESÆtag
-TOP_NONCOMPLIANT_ASSETSÆtag
-NONCOMPLIANT_ASSETS_OVERTIMEÆtag
+nameÆapiÆpost_data
+COMPLIANCE_SUNBURSTÆcomplianceOverview/hostCompliance?Æ{"name": "COMPLIANCE_SUNBURST", "assetGroupId": "", "assetGroupId": "", "assetGroupId": "host"}
+COMPLIANCE_TABLEÆcomplianceOverview/hostCompliance?Æ{"name": "COMPLIANCE_TABLE", "assetGroupId": "", "assetTag": "", "configType": "host"}
+COMPLIANCE_TABLE_BY_SECTIONSÆcomplianceOverview/hostCompliance?Æ{"name": "COMPLIANCE_TABLE_BY_SECTIONS", "assetGroupId": "", "assetTag": "", "configType": "host"}
+COMPLIANCE_TRENDÆcomplianceOverview/hostCompliance?Æ{"name": "COMPLIANCE_TREND", "assetGroupId": "", "assetTag": "", "configType": "host"}
+COMPLIANCE_STANDARDSÆcomplianceOverview/hostCompliance?Æ{"name": "COMPLIANCE_STANDARDS", "assetGroupId": "", "tag": "", "configType": "host"}
+COMPLIANCE_FAILED_RULES_BY_STANDARDSÆcomplianceOverview/hostCompliance?Æ{"name": "COMPLIANCE_FAILED_RULES_BY_STANDARDS", "assetGroupId": "", "tag": "", "configType": "host"}
+COMPLIANCE_TOP_FAILED_RULESÆcomplianceOverview/hostCompliance?Æ{"name": "COMPLIANCE_TOP_FAILED_RULES", "assetGroupId": "", "tag": "", "configType": "host"}
+TOP_NONCOMPLIANT_ASSETSÆcomplianceOverview/hostCompliance?Æ{"name": "TOP_NONCOMPLIANT_ASSETS", "assetGroupId": "", "tag": "", "configType": "host"}
+NONCOMPLIANT_ASSETS_OVERTIMEÆcomplianceOverview/hostCompliance?Æ{"name": "NONCOMPLIANT_ASSETS_OVERTIME", "assetGroupId": "", "tag": "", "configType": "host"}
