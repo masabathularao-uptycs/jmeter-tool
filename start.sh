@@ -48,6 +48,6 @@ HEAP="-Xms2g -Xmx4g"
 echo "Report folder name is : "
 echo ${folder_name}
  
-# nohup ./bin/jmeter.sh -t ${jmx_path} -q ${properties_path} -Jload_duration=${DURATION} -n -l reports/jtl/"${folder_name}.jtl" -e -o reports/"${folder_name}" > out.log 2>&1 &
+nohup ./bin/jmeter.sh -t ${jmx_path} -q ${properties_path} -Jload_duration=${DURATION} -n -l reports/jtl/"${folder_name}.jtl" -e -o reports/"${folder_name}" > out.log 2>&1 &
 
-HEAP="-Xms2g -Xmx4g" ./bin/jmeter.sh -t ${jmx_path} -q ${properties_path} -Jload_duration=${DURATION}
+# HEAP="-Xms2g -Xmx4g" ./bin/jmeter.sh -t ${jmx_path} -q ${properties_path} -Jload_duration=${DURATION}
