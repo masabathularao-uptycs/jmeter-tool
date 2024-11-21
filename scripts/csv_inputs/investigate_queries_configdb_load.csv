@@ -1,0 +1,4 @@
+nameÆquery
+query1Æ"select count(*) from upt_assets"
+query2Æ"select count(*) from upt_alert_rules"
+query3Æ"select count(*) from upt_event_rules"

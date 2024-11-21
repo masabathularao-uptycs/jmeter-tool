@@ -1,0 +1,14 @@
+{
+    "id": "c9ea216e-b925-45d1-b1ab-e5eef37e3507",
+    "userId": "f88f7a1f-b571-441e-8428-3455bdc62706",
+    "customerId": "4cfa8006-fcf2-49dc-8f8e-96087785c6c9",
+    "active": true,
+    "isInternal": false,
+    "key": "S4PFDGGOOGBXTNEUT6YLURUHW4HCUWB5",
+    "secret": "glwBLohAi5X3OFeiWE9S9fMRCj20hqfoAHfOiDqNZZDsvn+eu0Bxrr08BP/S+Dia",
+    "expiry": null,
+    "updatedAt": "2024-11-15T09:10:04.309Z",
+    "createdAt": "2024-11-15T09:10:04.309Z",
+    "domainSuffix": ".uptycs.net",
+    "domain": "jupiter100"
+  }
