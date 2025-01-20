@@ -1,0 +1,14 @@
+{
+  "id": "c0fc9e64-df3f-458d-b9a6-ce012a08a30f",
+  "userId": "df478741-2f2b-48e5-ba51-82a1a1911647",
+  "customerId": "bf816b40-d509-4475-872a-7e1c0c1ead91",
+  "active": true,
+  "isInternal": false,
+  "key": "43ZBOGFGR64QZKJR2GYAOYFIKMWJOMNU",
+  "secret": "GWxrjCAtn6ahNMuxHqguQO2VJPqzHrBx4YJD3lvCfXqtpIj3Ys5SLmh72YR56gLY",
+  "expiry": null,
+  "updatedAt": "2024-12-18T11:31:17.221Z",
+  "createdAt": "2024-12-18T11:31:17.221Z",
+  "domainSuffix": ".uptycs.net",
+  "domain": "cosmos11"
+}

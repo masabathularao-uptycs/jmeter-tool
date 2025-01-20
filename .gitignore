@@ -2,3 +2,4 @@
 /jmeter.log
 /out.log
 /backups
+scripts/osquery_simulator.jmx

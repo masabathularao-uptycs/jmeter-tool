@@ -6,3 +6,5 @@ curr_time="$(date +'%Y-%m-%d_%H-%M-%S')" && HEAP="-Xms2g -Xmx4g" ./bin/jmeter.sh
 
 
 HEAP="-Xms2g -Xmx4g" ./bin/jmeter.sh -t scripts/GLOBAL_QUERY.jmx -q scripts/domain/jupiter.properties -Jload_duration=50
+
+HEAP="-Xms2g -Xmx4g" ./bin/jmeter.sh -t scripts/pgsharding_apiload.jmx -q scripts/domain/cosmos.properties -Jload_duration=50
