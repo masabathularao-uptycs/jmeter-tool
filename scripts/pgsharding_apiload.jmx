@@ -29,7 +29,7 @@
           </elementProp>
           <elementProp name="no_of_threads" elementType="Argument">
             <stringProp name="Argument.name">no_of_threads</stringProp>
-            <stringProp name="Argument.value">5</stringProp>
+            <stringProp name="Argument.value">1</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="DET_LIMIT" elementType="Argument">
