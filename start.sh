@@ -4,7 +4,7 @@
 if [ -z "$1" ]; then
   echo "Enter jmx_file (optional) (Press ENTER to set to default): "
   read jmx_file
-  jmx_file=${jmx_file:-"GLOBAL_QUERY"}
+  jmx_file=${jmx_file:-"GLOBAL_QUERY.jmx"}
 else
   jmx_file=$1
 fi
